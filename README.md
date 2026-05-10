@@ -42,10 +42,14 @@ The final result is a custom static library that reproduces the behavior of the 
 ```text
 .
 ├── Makefile
-├── ft_printf.h
 ├── ft_printf.c
-├── ft_printf_utils.c
-└── additional source files
+├── ft_printf.h
+├── ft_ptr.c
+├── ft_putchar_m.c
+├── ft_puthexa.c
+├── ft_putnbr_m.c
+├── ft_putstr_m.c
+└── ft_uns_putnbr.c
 ```
 
 ---
