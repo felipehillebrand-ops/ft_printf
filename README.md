@@ -165,7 +165,7 @@ make re
 
 ---
 
-# Using the Library
+## Using the Library
 
 Include the header in your project:
 
@@ -181,7 +181,7 @@ cc main.c libftprintf.a
 
 ---
 
-# Usage Example
+## Usage Example
 
 ```c
 #include "ft_printf.h"
